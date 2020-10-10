@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-10T20:36:57-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Curiosidades</title><link href="http://localhost:4000/2020/10/10/curiosidades.html" rel="alternate" type="text/html" title="Curiosidades" /><published>2020-10-10T00:00:00-03:00</published><updated>2020-10-10T00:00:00-03:00</updated><id>http://localhost:4000/2020/10/10/curiosidades</id><content type="html" xml:base="http://localhost:4000/2020/10/10/curiosidades.html">&lt;article&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-10T20:46:21-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Curiosidades</title><link href="http://localhost:4000/2020/10/10/curiosidades.html" rel="alternate" type="text/html" title="Curiosidades" /><published>2020-10-10T00:00:00-03:00</published><updated>2020-10-10T00:00:00-03:00</updated><id>http://localhost:4000/2020/10/10/curiosidades</id><content type="html" xml:base="http://localhost:4000/2020/10/10/curiosidades.html">&lt;article&gt;
     &lt;p&gt;Criado para ser o &quot;Civilization em tempo real&quot;, série Age of Empires ainda cativa milhares de jogadores.&lt;/p&gt;
 
     &lt;ul&gt;
@@ -9,7 +9,7 @@
 
     &lt;p&gt;Ao contrário de grande parte dos jogos de estratégia em tempo real, o computador não trapaceia para bater o jogador em Age of Empires. Um dos focos da criação da IA dos dois primeiros jogos foi concentrado em desenvolver um sistema capaz de simular o comportamento de uma pessoa, capaz de desenvolver estratégias e surpreender o jogador.&lt;/p&gt;
     &lt;br /&gt;
-    &lt;img src=&quot;/%5Cassets%5Cimages%5Cia.jpg&quot; alt=&quot;IA de AoE pensada para não trapacear&quot; width=&quot;400px&quot; /&gt;
+    &lt;img src=&quot;/assets/images/ia.jpg&quot; alt=&quot;IA de AoE pensada para não trapacear&quot; width=&quot;400px&quot; /&gt;
 
     &lt;ul&gt;
         &lt;il&gt;
@@ -19,7 +19,7 @@
 
     &lt;p&gt;A Microsoft não tinha muita experiência em jogos quando decidiu distribuir Age of Empires e tinha expectativa de que AoE vendesse umas 430 mil cópias, número que superava bastante a estimativa de 100 mil unidades da própria Ensemble. O primeiro título da série chegaria em 1997, conquistando público e crítica com a proposta de um “Civilization em tempo real”. Age of Empires acabou vendendo 3 milhões de unidades antes do ano 2000, número considerado alto para a época e para um game de estratégia.&lt;/p&gt;
     &lt;br /&gt;
-    &lt;img src=&quot;/%5Cassets%5Cimages%5Csaladin.jpg&quot; alt=&quot;Campanha Saladin&quot; width=&quot;400px&quot; /&gt;
+    &lt;img src=&quot;/assets/images/saladin.jpg&quot; alt=&quot;Campanha Saladin&quot; width=&quot;400px&quot; /&gt;
 
     &lt;ul&gt;
         &lt;il&gt;
@@ -29,7 +29,7 @@
 
     &lt;p&gt;O grande apelo de AoE 2 ao longo dos anos explica o fato de que hoje a versão HD do game registra 400 mil jogadores ativos diariamente em partidas online, que podem envolver de dois a oito jogadores, de acordo com os dados da Steam. Além disso, os três pacotes de expansão da versão remasterizada foram integralmente desenvolvidos por fãs e criadores de mods que passaram uma década jogando a versão original de Age of Empires 2.&lt;/p&gt;
     &lt;br /&gt;
-    &lt;img src=&quot;/%5Cassets%5Cimages%5Cmmo.png&quot; alt=&quot;Versão MMO de Age of Empires&quot; width=&quot;400px&quot; /&gt;
+    &lt;img src=&quot;/assets/images/mmo.png&quot; alt=&quot;Versão MMO de Age of Empires&quot; width=&quot;400px&quot; /&gt;
     &lt;br /&gt;
     &lt;p&gt;Extraído de https://www.techtudo.com.br/listas/2018/02/conheca-10-curiosidades-da-franquia-age-os-empires.ghtml&lt;/p&gt;
 &lt;/article&gt;</content><author><name>Kenzo</name></author><summary type="html">Criado para ser o &quot;Civilization em tempo real&quot;, série Age of Empires ainda cativa milhares de jogadores.</summary></entry><entry><title type="html">Definitive Edition lançada</title><link href="http://localhost:4000/2020/10/09/definitive-edition.html" rel="alternate" type="text/html" title="Definitive Edition lançada" /><published>2020-10-09T00:00:00-03:00</published><updated>2020-10-09T00:00:00-03:00</updated><id>http://localhost:4000/2020/10/09/definitive-edition</id><content type="html" xml:base="http://localhost:4000/2020/10/09/definitive-edition.html">&lt;article&gt;
@@ -46,7 +46,7 @@
 
     &lt;p&gt; O primeiro título da série foi Age of Empires, lançado em 1997. Depois dele, outros seis títulos da franquia principal e quatro títulos derivados foram lançados. A maior parte da série é formada pelo gênero de estratégia em tempo real, sendo que seus modos de jogo se resumem a dois estilos principais: mapa aleatório e campanha. Além do gênero, os jogos da série são caracterizados por marcarem eventos históricos e muitas outras surpresas.&lt;p&gt;&lt;br /&gt;
 
-    &lt;img src=&quot;&quot; alt=&quot;Capa de Age of Empires II&quot; /&gt;&lt;br /&gt;
+    &lt;img src=&quot;/assets/images/aoe2.jpg&quot; alt=&quot;Capa de Age of Empires II&quot; /&gt;&lt;br /&gt;
 
     &lt;p&gt;Os dois primeiros títulos da série são focados em eventos ocorridos na Europa, na Ásia e na África desde a idade da pedra até a Antiguidade Clássica, sendo o jogo Age of Empires baseado nas guerras antigas no ocidente e no oriente durante as quatro idades da Antiguidade (Idade da Pedra, Idade da Pedra Polida (chamada no jogo de Idade da Ferramenta), Idade do Bronze e Idade do Ferro) e seu pacote de expansão The Rise of Rome baseado na formação e expansão do Império Romano.&lt;/p&gt;&lt;br /&gt;
 
