@@ -1,0 +1,28 @@
+---
+layout: default
+title: Blog
+---
+<header id="titulo">
+  <h1 class="contorno">BLOG DO KENZO</h1>
+</header>
+<div id="barra-verm"></div>
+<div class="container-sec">
+  <section class="principal">
+    <h3 id="ultimos" class="contorno">Últimos Posts</h3>
+    <ul class="lista-posts">
+      {% for post in site.posts %}
+      <hr>
+        <li>
+          <h2><a href="{{ post.url | relative_url}}">{{ post.title }}</a></h2>
+          {{ post.excerpt | truncatewords: 30}}
+        </li>
+      {% endfor %}
+    </ul>
+  </section>
+  <aside class="secundario">
+    <img src="{{ '/assets/images/civs.png' | relative_url}}" width=400px>
+    <br>
+    <p>Brasões das civilizações de Age of Empires.</p>
+  </aside>
+</div>
+
