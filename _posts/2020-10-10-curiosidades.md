@@ -36,5 +36,5 @@ author: Kenzo
     <br>
     <img src="{{ '/assets/images/mmo.png' | relative_url }}" alt="Versão MMO de Age of Empires" width=400px>
     <br>
-    <p>Extraído de <a href="https://www.techtudo.com.br/listas/2018/02/conheca-10-curiosidades-da-franquia-age-os-empires.html"/></p>
+    <p> <a href="https://www.techtudo.com.br/listas/2018/02/conheca-10-curiosidades-da-franquia-age-os-empires.html">Via TechTudo</a> </p>
 </article>
